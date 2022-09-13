@@ -353,6 +353,7 @@ body {
 
 
 
+
 .carousel-inner h1 {
     font-size: 50;
 
@@ -796,6 +797,12 @@ body {
 
 
 
+
+}
+
+.card:hover {
+    opacity: 1;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3));
 
 }
 
